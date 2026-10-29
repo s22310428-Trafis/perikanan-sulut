@@ -1,0 +1,17 @@
+# Credentials
+firebase/
+backend/firebase/
+serviceAccountKey.json
+*.key
+*.pem
+
+# Dependencies and build
+node_modules/
+dist/
+target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs and OS
+*.log
+.DS_Store
+Thumbs.db
