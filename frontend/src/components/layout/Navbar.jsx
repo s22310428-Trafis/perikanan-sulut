@@ -47,7 +47,7 @@ export default function Navbar({ onToggleSidebar }) {
     }
     if (path === '/produksi') {
       return {
-        title: isAdmin ? 'Pengelolaan Data Produksi (CRUD)' : 'Katalog Data Hasil Produksi',
+        title: isAdmin ? 'Manajemen Data Produksi (CRUD)' : 'Katalog Data Hasil Produksi',
         trail: ['Data Produksi'],
       };
     }
