@@ -29,7 +29,7 @@ const ADMIN_MENUS = [
     description: 'Ringkasan & Operasional',
   },
   {
-    name: 'CRUD Produksi',
+    name: 'Produksi',
     path: '/admin/produksi',
     icon: Fish,
     description: 'Kelola Data Pendaratan (CRUD)',
