@@ -337,7 +337,7 @@ export default function AdminLayout() {
                 {showNotifications && (
                   <div className="absolute right-0 mt-2 w-80 bg-white rounded-xl shadow-xl border border-slate-200 p-4 z-50 text-xs sm:text-sm">
                     <h4 className="font-bold text-slate-900 pb-2 border-b border-slate-100">
-                      Notifikasi Admin
+                      Notifikasi Admin Dkp Sulut
                     </h4>
                     <div className="space-y-2 mt-2">
                       <div className="p-2.5 rounded-lg bg-blue-50 border border-blue-100 flex items-start gap-2.5">
