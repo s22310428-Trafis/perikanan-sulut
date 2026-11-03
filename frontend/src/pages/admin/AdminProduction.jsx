@@ -227,7 +227,7 @@ export default function AdminProductionPage() {
                   <th className="py-3.5 px-5">Jenis Ikan</th>
                   <th className="py-3.5 px-4 text-right">Jumlah Produksi</th>
                   <th className="py-3.5 px-4 text-right">Harga / Kg</th>
-                  <th className="py-3.5 px-5 text-right">Total Nilai</th>
+                  <th className="py-3.5 px-5 text-right">Total Harga</th>
                   <th className="py-3.5 px-4">Tanggal Produksi</th>
                   <th className="py-3.5 px-5">Lokasi Pendaratan</th>
                   <th className="py-3.5 px-5">Nelayan / Kapal</th>
