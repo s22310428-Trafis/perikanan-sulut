@@ -90,7 +90,7 @@ export default function AdminLayout() {
     if (p.includes('/produksi/tambah')) return { title: 'Tambah Data Produksi (CRUD)', trail: ['Admin', 'Produksi', 'Tambah'] };
     if (p.includes('/produksi/edit')) return { title: 'Edit Data Produksi (CRUD)', trail: ['Admin', 'Produksi', 'Edit'] };
     if (p.includes('/produksi/') && !p.includes('/produksi/tambah')) return { title: 'Detail Data Produksi', trail: ['Admin', 'Produksi', 'Detail'] };
-    if (p.includes('/produksi')) return { title: 'Pengelolaan Data Produksi (CRUD)', trail: ['Admin', 'Produksi'] };
+    if (p.includes('/produksi')) return { title: 'Management Data Produksi (CRUD)', trail: ['Admin', 'Produksi'] };
     if (p.includes('/statistik')) return { title: 'Statistik Kelautan Sulut', trail: ['Admin', 'Statistik'] };
     if (p.includes('/laporan')) return { title: 'Laporan & Audit Produksi', trail: ['Admin', 'Laporan'] };
     return { title: 'Panel Administrator DKP', trail: ['Admin'] };
