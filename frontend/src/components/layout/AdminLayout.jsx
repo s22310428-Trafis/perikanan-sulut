@@ -32,7 +32,7 @@ const ADMIN_MENUS = [
     name: 'Produksi',
     path: '/admin/produksi',
     icon: Fish,
-    description: 'Kelola Data Pendaratan (CRUD)',
+    description: 'Management Data Pendaratan (CRUD)',
     badge: 'CRUD',
   },
   {
