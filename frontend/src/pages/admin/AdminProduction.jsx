@@ -162,7 +162,7 @@ export default function AdminProductionPage() {
               Katalog Pendaratan Ikan Resmi
             </h2>
             <span className="px-2.5 py-0.5 rounded-full text-xs font-bold bg-amber-50 text-amber-800 border border-amber-200">
-              CRUD Penuh
+              
             </span>
           </div>
           <p className="text-xs sm:text-sm text-slate-500 mt-0.5">
